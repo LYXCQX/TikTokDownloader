@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: tiktok-downloader
+Version: 0.1.0
+Summary: A TikTok video downloader
+Author: tiktok-downloader 
+Requires-Python: >=3.7
+License-File: license
+Requires-Dist: aiohttp
+Requires-Dist: asyncio

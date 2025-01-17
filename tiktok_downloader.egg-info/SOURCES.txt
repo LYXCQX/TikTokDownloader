@@ -1,0 +1,8 @@
+README.md
+license
+setup.py
+tiktok_downloader.egg-info/PKG-INFO
+tiktok_downloader.egg-info/SOURCES.txt
+tiktok_downloader.egg-info/dependency_links.txt
+tiktok_downloader.egg-info/requires.txt
+tiktok_downloader.egg-info/top_level.txt
